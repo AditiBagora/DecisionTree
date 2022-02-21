@@ -1,0 +1,1 @@
+The implementation performs startified random sampling as explained in the implementation pdf and computes accuracy for entropy setting by default for further improvements choices are given.Please enter digits in case of choice and characters 'y' 'n'.Textfile is also attached for a iteration.The folder contains both ,py and notebook versions.
